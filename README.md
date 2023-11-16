@@ -2,7 +2,7 @@
 
 <!--
 **diogenesfinotti/diogenesfinotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h3>
 Hey there, I'm Diogenes! 
 </h3>
  <h5>
