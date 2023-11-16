@@ -1,7 +1,6 @@
 <!--
-**diogenesfinotti/diogenesfinotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**diogenesfinotti/diogenesfinotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="center">
 <h3>
 Hey there, I'm Diogenes! 
 </h3>
@@ -29,4 +28,3 @@ I am a Data Engineer who loves working with data and seeing a huge amount of dat
   <li> Studying Open-source stacks mainly Apache (Airflow, Spark, kafka, etc) </li>
   <li> Developing some codes for training purposes to sharp my knowledges </li>
  </ul>
-</p>
