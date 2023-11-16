@@ -21,7 +21,7 @@ I am a Data Engineer who loves working with data and seeing a huge amount of dat
  </ul>
 
 <h3>
-_In progress ..._
+In progress ...
 </h3>
 
  <ul>
